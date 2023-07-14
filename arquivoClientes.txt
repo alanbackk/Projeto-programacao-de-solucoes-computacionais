@@ -1,0 +1,5 @@
+Testando;teste@teste.com;Teste@123;Rua Do lado, 00;51997555604;00002222000;420.04;(3,);(2,1,);(1,2,3,);(1,2,3,);
+Mateus;mateusneubarth@hotmail.com;Senha345#$;;981628883;05376623084;470.01;();(2,);();();
+Alan Back;alan@teste.com;Teste@123;Rua Qualquer;5599223344;0123456789;465.01;();(3,5,15,);();();
+ALan Fernandes Back;alan@teste2.com;Teste@123;;74125893;123456789;0;();();();();
+turma;turma@gmail.com;Senha312$%;;178476981;0174329187432;130.01;();();();();
